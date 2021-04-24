@@ -1,0 +1,9 @@
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\bin\Debug\netstandard2.0\rick.Core.deps.json
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\bin\Debug\netstandard2.0\rick.Core.dll
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\bin\Debug\netstandard2.0\rick.Core.pdb
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.csprojAssemblyReference.cache
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.AssemblyInfoInputs.cache
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.AssemblyInfo.cs
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.csproj.CoreCompileInputs.cache
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.dll
+D:\Repositories\DeveloperWOW64\RickRoll\rick.Core\obj\Debug\netstandard2.0\rick.Core.pdb
