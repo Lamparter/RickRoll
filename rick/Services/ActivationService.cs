@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 using rick.Activation;
+using rick.Core.Helpers;
 
 using Windows.ApplicationModel.Activation;
 using Windows.System;
@@ -90,7 +91,7 @@ namespace rick.Services
 
         private async Task InitializeAsync()
         {
-            await Task.CompletedTask;
+            await ThemeSelectorService.InitializeAsync().ConfigureAwait(false);
         }
 
         private async Task HandleActivationAsync(object activationArgs)
@@ -115,12 +116,12 @@ namespace rick.Services
 
         private async Task StartupAsync()
         {
-            await Task.CompletedTask;
+            await ThemeSelectorService.SetRequestedThemeAsync();
         }
 
         private IEnumerable<ActivationHandler> GetActivationHandlers()
         {
-            yield break;
+            yield return Singleton<SchemeActivationHandler>.Instance;
         }
 
         private bool IsInteractive(object args)

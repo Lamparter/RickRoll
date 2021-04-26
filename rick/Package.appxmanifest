@@ -8,11 +8,11 @@
   IgnorableNamespaces="uap mp genTemplate">
 
   <Identity
-    Name="63DF8DE2-5F67-478C-B9F8-4EE69559C44D"
+    Name="279A9FD3-78E2-4CB2-9525-DEA8E6769A0A"
     Publisher="CN=Jupiter"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="63DF8DE2-5F67-478C-B9F8-4EE69559C44D" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="279A9FD3-78E2-4CB2-9525-DEA8E6769A0A" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>rick</DisplayName>
@@ -43,6 +43,12 @@
       </uap:VisualElements>
 
       <Extensions>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="wtsapp">
+            <uap:Logo>Assets\Icon.png</uap:Logo>
+            <uap:DisplayName>rick</uap:DisplayName>
+          </uap:Protocol>
+        </uap:Extension>
       </Extensions>
     </Application>
   </Applications>

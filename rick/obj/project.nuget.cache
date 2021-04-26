@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8p7bftpgWV2/zkSnx04b33EbaAK/E00Y44I+K/jaSgiqJ80a4mXIQ1Bd9sjq9iulHdKxKShzqZy5LgTlwwc2Rw==",
+  "dgSpecHash": "UJYTT1IumG6d6QvpO8TGO5iDxwp4WtISweKunYn4mRzQp5awQ9Osq4fB1wNlaYDCRqKbcd2FKNSbck6APgH4QA==",
   "success": true,
   "projectFilePath": "D:\\Repositories\\DeveloperWOW64\\RickRoll\\rick\\rick.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Jupiter\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
     "C:\\Users\\Jupiter\\.nuget\\packages\\microsoft.xaml.behaviors.uwp.managed\\2.0.1\\microsoft.xaml.behaviors.uwp.managed.2.0.1.nupkg.sha512",
     "C:\\Users\\Jupiter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jupiter\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Jupiter\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.10\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
     "C:\\Users\\Jupiter\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.8-rel-28605-00\\runtime.win10-arm.microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Users\\Jupiter\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.7-rel-28605-00\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.7-rel-28605-00.nupkg.sha512",

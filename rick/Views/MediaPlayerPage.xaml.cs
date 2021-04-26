@@ -14,12 +14,11 @@ namespace rick.Views
 {
     public sealed partial class MediaPlayerPage : Page, INotifyPropertyChanged
     {
-        // TODO WTS: Set your default video and image URIs
         // For more on the MediaPlayer and adjusting controls and behavior see https://docs.microsoft.com/windows/uwp/controls-and-patterns/media-playback
         private const string DefaultSource = "https://github.com/DeveloperWOW64/RickRoll/raw/main/.assets/rick.mp4";
 
         // The poster image is displayed until the video is started
-        private const string DefaultPoster = "https://sec.ch9.ms/ch9/db15/43c9fbed-535e-4013-8a4a-a74cc00adb15/C9L12WinTemplateStudio_960.jpg";
+        private const string DefaultPoster = "https://i.ytimg.com/vi/fTZtmsTaijY/hqdefault.jpg";
 
         // The DisplayRequest is used to stop the screen dimming while watching for extended periods
         private DisplayRequest _displayRequest = new DisplayRequest();
